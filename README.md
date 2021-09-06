@@ -1,2 +1,2 @@
 # Servo-Tests
-Tests with servos
+A bunch of tests with servos, especially Continuous Rotation servos.
