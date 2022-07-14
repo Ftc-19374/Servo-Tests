@@ -25,6 +25,10 @@ public class test_servo extends LinearOpMode{
             if (ButtonB) {
                 servo1.setPower(-1.0);
             }
+            else
+            {
+                servo1.setPower(0);
+            }
         }
         }
 
